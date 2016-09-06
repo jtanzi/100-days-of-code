@@ -40,6 +40,14 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/f9b10443b2d34d6ef575950934ae715d88293522
 
+### Day 4: September 5, 2016
 
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** 
 
 
