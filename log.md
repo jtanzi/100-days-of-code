@@ -42,12 +42,12 @@
 
 ### Day 4: September 5, 2016
 
-**Today's Progress**: 
+**Today's Progress**: Trying to work out how to add a search feature to the meal planning app, did not get very far with it.
 
-**Thoughts:** 
+**Thoughts:** Idea is to have user enter a search term in the Search bar in the nav bar at top of window on each page of app.  Search term is then passed through to mongodb driver to return an array of results.  Would be easy to do this against a single field like title or author, but want this to work across multiple fields.
 
 **Link to Github repo:** https://github.com/jtanzi/crudite
 
-**Today's Commit:** 
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/dfad3564160c5191aaea07e68db0d0ea111062e0
 
 
