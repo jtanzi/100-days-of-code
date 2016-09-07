@@ -50,4 +50,13 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/dfad3564160c5191aaea07e68db0d0ea111062e0
 
+### Day 5: September 6, 2016
+
+**Today's Progress**" Setting up the ingredient input field group on the create recipe page to display only the first five on intial load, then five more as an Add More button is clicked.  Goal is to have the Add More button on that row disppaar and a new one displayed five rows down.  Got partway there working through it.
+
+**Thoughts:** Tried to have a single Add More button and move it five input elements down, but this is proving to be difficult in pinpointing the correct sibling element to insert it after/before.  Thinking a better design is ot have a Jade mixin that adds an Add More button every five rows and then hides it when clicked.
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/31e726c8d0cc9f1401c688e58ebf861bf1ee61f6
 
