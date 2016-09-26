@@ -60,3 +60,14 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/31e726c8d0cc9f1401c688e58ebf861bf1ee61f6
 
+### Day 6: September 25, 2016
+
+**Today's Progress**" After fixing the recipe creation issue with ingredients, the edit feature was broken due to the change in the ingredient format, so I was working on updating this.  Got most of the way to the finish line here, but there is still a problem with how the last ingredient is read in, so will continue this tomorrow.  Also did a lot of styling on the edit page layout.
+
+**Thoughts:** Pesky problems with the units portion of the last ingredient entered, and need to figure out how to have the select list show the current ingredients being stored.
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/bec3775b0347f4ffc86b9e767711e688aa84ecae
+                    https://github.com/jtanzi/crudite/commit/77edbe0ff2550c0806520be567df902e46665809
+
