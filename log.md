@@ -40,7 +40,7 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/f9b10443b2d34d6ef575950934ae715d88293522
 
-### Day 4: September 5, 2016
+### Day 5: September 5, 2016
 
 **Today's Progress**: Trying to work out how to add a search feature to the meal planning app, did not get very far with it.
 
@@ -50,7 +50,7 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/dfad3564160c5191aaea07e68db0d0ea111062e0
 
-### Day 5: September 6, 2016
+### Day 6: September 6, 2016
 
 **Today's Progress**" Setting up the ingredient input field group on the create recipe page to display only the first five on intial load, then five more as an Add More button is clicked.  Goal is to have the Add More button on that row disppaar and a new one displayed five rows down.  Got partway there working through it.
 
@@ -60,7 +60,7 @@
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/31e726c8d0cc9f1401c688e58ebf861bf1ee61f6
 
-### Day 6: September 25, 2016
+### Day 7: September 25, 2016
 
 **Today's Progress**" After fixing the recipe creation issue with ingredients, the edit feature was broken due to the change in the ingredient format, so I was working on updating this.  Got most of the way to the finish line here, but there is still a problem with how the last ingredient is read in, so will continue this tomorrow.  Also did a lot of styling on the edit page layout.
 
