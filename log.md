@@ -71,3 +71,13 @@
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/bec3775b0347f4ffc86b9e767711e688aa84ecae
                     https://github.com/jtanzi/crudite/commit/77edbe0ff2550c0806520be567df902e46665809
 
+
+### Day 8: September 28, 2016
+
+**Today's Progress**" Figured out the problem with creating and editing recipes where units for ingredients would log one unit record too far, still need to fix issue with when no units are used.
+
+**Thoughts:** A simple if...else condition should suffice, may want to use a default value in the units select field of '' or something to test against.
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/93ae29a34d97a60617ab973a062650dfae19eb7b
