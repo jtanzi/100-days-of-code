@@ -81,3 +81,13 @@
 **Link to Github repo:** https://github.com/jtanzi/crudite
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/93ae29a34d97a60617ab973a062650dfae19eb7b
+
+### Day 9: September 29, 2016
+
+**Today's Progress** Finally got recipe editing working properly.
+
+**Thoughts:** Will be doing some styling to wrap up this project, and possibly adding the ability to print/PDF the planner output.
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/ca1511055820b50d43171de36e91fe22f0276fbc
