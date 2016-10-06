@@ -91,3 +91,13 @@
 **Link to Github repo:** https://github.com/jtanzi/crudite
 
 **Today's Commit:** https://github.com/jtanzi/crudite/commit/ca1511055820b50d43171de36e91fe22f0276fbc
+
+### Day 10: October 6, 2016
+
+**Today's Progress** Fixed up the styling for the meal planner portion of the app.
+
+**Thoughts:** Still to do: fix it so that when you don't select a unit for an ingredient when entering a new recipe (like for eggs or onions/carrots); add site searching.
+
+**Link to Github repo:** https://github.com/jtanzi/crudite
+
+**Today's Commit:** https://github.com/jtanzi/crudite/commit/a2c405add293e46b05b8dd7851a27a5c8530cf15
